@@ -39,7 +39,7 @@ I am a passionate student developer currently learning **Web Development** at **
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Anything! I'm happy to help (If it's within my capabilities)**
+- 💬 Ask me about ~~Anything! I'm happy to help~~
 - ⚡ Fun fact: **I love ICECREAM!**e
 - 👨‍🏫 Mentored by: [Saroj Adhikari](https://github.com/adhikarisaroj795)
 
@@ -81,6 +81,7 @@ I am a passionate student developer currently learning **Web Development** at **
 
 
 **Crafted with ❤️ at KIST College**
+
 
 
 
